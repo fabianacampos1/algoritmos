@@ -1,0 +1,2 @@
+# algoritmos
+Trabalho vetor dinâmico
